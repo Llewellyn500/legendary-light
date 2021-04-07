@@ -1,0 +1,52 @@
+{
+    "name": "legendary-light",
+    "displayName": "Legendary Light",
+    "description": "A light vscode theme with synthwave syntax highlighting",
+    "icon": "images/Logo.png",
+    "publisher": "LlewellynPaintsil",
+    "author": {
+        "name": "Llewellyn Adonteng Paintsil",
+        "url": "https://github.com/Llewellyn500",
+        "email": "llewellynpaintsil34@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Llewellyn500/Legendary-Dark"
+    },
+    "galleryBanner": {
+        "color": "#fff",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+     "keywords": [
+        "Llewellyn500 Themes",
+        "llewellyn",
+        "light",
+        "vscode theme",
+        "Legendary Light",
+        "SynthWave '84",
+        "light theme",
+        "cool",
+        "awesome",
+        "colorfully",
+        "color",
+        "blue",
+        "SynthWave",
+        "Grey"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Legendary Light",
+                "uiTheme": "vs",
+                "path": "./themes/Legendary Light-color-theme.json"
+            }
+        ]
+    }
+}
