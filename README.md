@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "legendary-light"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Legendary-Light-Logo](images/Logo.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# Legendary Light - VS Code theme
 
-**Enjoy!**
+</div>
+
+<div align="center">
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Llewellyn500/legendary-light?color=white&logo=github&style=for-the-badge)](https://github.com/Llewellyn500/legendary-light/releases)
+</div>
+
+![Legendary_Dark-screenshot](images/light.png)
+
+## License:
+
+[MIT](https://github.com/Llewellyn500/legendary-light/blob/master/LICENSE.md)
